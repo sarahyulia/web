@@ -4,7 +4,7 @@
 }
  
 body {
-  background-color: #efr;
+  background-color: #567bfb;
   font-family: sans-serif;
 }
  
@@ -29,7 +29,7 @@ body {
 }
  
 .container {
-  font-size: 1.5em;
+  font-size: 1.4em;
   width: 100%;
   height: 100;
   height: 100vh;
@@ -59,7 +59,7 @@ nav li {
 }
  
 nav li a {
-  color: white;
+  color: purple;
   font-weight: 700;
   opacity: 0.6;
   text-decoration: none;
